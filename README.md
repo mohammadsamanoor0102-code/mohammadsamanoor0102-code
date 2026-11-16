@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sama Noor! 👋
 
-<!--
-**mohammadsamanoor0102-code/mohammadsamanoor0102-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science & Cognitive Systems Student
 
-Here are some ideas to get you started:
+💻 Currently learning Python and C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Exploring Open Source Development.
+
+🎯 Preparing for Google Summer of Code 2027.
+
+📚 Interested in Software Development and Problem Solving.
+
+## My Current Goals
+
+- Strengthen my programming fundamentals.
+- Learn Git and GitHub.
+- Build practical Python projects.
+- Start contributing to Open Source.
+
+## Languages I'm Learning
+
+- Python
+- C
